@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @datasushi
-- 👀 I’m interested in machine learning, svelte and golang!
+- 👀 I’m interested in machine learning, javascript and golang!
 - 📫 How to reach me, check out my homepage [ctoaas.help](https://ctoaas.help)
 
 <!---
